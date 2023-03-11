@@ -5,6 +5,7 @@ import {
     SafeAreaView,
     TextInput,
     Alert,
+    Platform,
     StatusBar,
     TouchableOpacity,
     Text
